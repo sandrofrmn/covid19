@@ -1,0 +1,23 @@
+*{
+​​ margin:0px; 
+ padding:0px; 
+ box-sizing: border-box; 
+}
+
+#container {
+    height: 500px; 
+    min-width: 310px; 
+    max-width: 800px; 
+    margin: 0 auto; 
+}
+.loading {
+    margin-top: 10em;
+    text-align: center;
+    color: gray;
+}
+
+.img{
+    width: 800px;
+    height: 600px;
+    border: 1px solid blue
+}
