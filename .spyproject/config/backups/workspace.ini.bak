@@ -6,5 +6,5 @@ save_non_project_files = False
 
 [main]
 version = 0.2.0
-recent_files = ['templates\\index.html', 'app.py', 'dataframeLoader.py']
+recent_files = ['templates\\index.html', 'app.py', 'static\\js\\covid_cases.js', 'templates\\base.html', '..\\..\\..\\..\\..\\testcovid.py', 'static\\css\\main.css', 'static\\js\\europe.js']
 

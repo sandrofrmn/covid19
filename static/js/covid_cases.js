@@ -31,7 +31,7 @@ $(document).ready(function(){
         ['si', 25],
         ['ba', 26],
         ['mc', 27],
-        ['al', 28],
+        ['al', {{ showCumCases|tojson }}],
         ['cnm', 29],
         ['rs', 31],
         ['ro', 32],
